@@ -21,7 +21,7 @@ module.exports = phase => {
 
     config.env.DOMAIN = phase === PHASE_DEVELOPMENT_SERVER ?
         'http://localhost:3000' :
-        'https://ijepem.com';
+        'https://jieas.vercel.app';
 
     config.env.DEV = phase === PHASE_DEVELOPMENT_SERVER ? true : false;
 

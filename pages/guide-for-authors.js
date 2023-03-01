@@ -21,7 +21,7 @@ const TeachersPage = () => {
 
 
                 </p>
-                <p><a href="https://ijepem.com/doc/JIEAS-Template-for-Autors.docx"> Template for Autors ( https://ijepem.com/doc/JIEAS-Template-for-Autors.docx )
+                <p><a href="https://jieas.vercel.app/doc/JIEAS-Template-for-Autors.docx"> Template for Autors ( https://jieas.vercel.app/doc/JIEAS-Template-for-Autors.docx )
 
                 </a>
                 </p>
@@ -30,7 +30,7 @@ const TeachersPage = () => {
                   Copyright Form File Must Be Signed By All Authors And Uploaded To The System.
 
                 </p>
-                <p><a href="https://ijepem.com/doc/ijepem-copyright.pdf"> Copyright Form File ( https://ijepem.com/doc/ijepem-copyright.pdf )</a></p>
+                <p><a href="https://jieas.vercel.app/doc/ijepem-copyright.pdf"> Copyright Form File ( https://jieas.vercel.app/doc/ijepem-copyright.pdf )</a></p>
 
 
               </div>

@@ -126,7 +126,7 @@ const CourseDetails = (props) => {
                     <>{authorin.author.first_name} {authorin.author.middle_name} {authorin.author.last_name}{i != (arr.length - 1) ? ', ' : ''}</>
                   )}. ({moment(articles.pubdate).format('YYYY')}). {articles.article_infos.find(el => el.lang_id == articles.primary_language).title}. International Journal of Environmental
                   Pollution and Environmental Modelling, {volume + ' ( ' + issue + ' ) '}, {articles.first_page}-{articles.last_page}.
-                  {' '}{'http://ijepem.com/volume-' + volume + '/issue-' + issue + '/article-' + article + '/'}
+                  {' '}{'http://jieas.vercel.app/volume-' + volume + '/issue-' + issue + '/article-' + article + '/'}
                 </code>
               </div>
             </div>
