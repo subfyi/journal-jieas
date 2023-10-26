@@ -87,11 +87,6 @@
       "permanent": true
     },
     {
-      "source": "/volumes/",
-      "destination": "https://dergipark.org.tr/en/pub/jieas/archive",
-      "permanent": true
-    },
-    {
       "source": "/volume/",
       "destination": "https://dergipark.org.tr/en/pub/jieas/archive",
       "permanent": true
@@ -113,6 +108,11 @@
     },
     {
       "source": "/issue/archive/",
+      "destination": "https://dergipark.org.tr/en/pub/jieas/archive",
+      "permanent": true
+    },
+    {
+      "source": "/volumes/:path*",
       "destination": "https://dergipark.org.tr/en/pub/jieas/archive",
       "permanent": true
     },
