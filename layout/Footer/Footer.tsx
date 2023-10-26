@@ -32,7 +32,7 @@ export default function Footer() {
                                         </li>
                                         <li>
 
-                                            <a href="/guide-for-authors" className="thm-btn">Guide for Authors</a>
+                                            <a href="https://dergipark.org.tr/en/pub/jieas/writing-rules" className="thm-btn">Guide for Authors</a>
                                         </li>
                                     </ul>
                                 </div>
@@ -53,7 +53,7 @@ export default function Footer() {
                                             <p>Şükrü Dursun</p>
                                         </li>
                                         <li>
-                                            <a href="/ethics-statement" className="thm-btn"> Ethics and Malpractice Statement</a>
+                                            <a href="https://dergipark.org.tr/en/pub/jieas/policy" className="thm-btn"> Ethics and Malpractice Statement</a>
                                         </li>
                                     </ul>
 
@@ -66,6 +66,7 @@ export default function Footer() {
                                     <p className="footer-widget__text">Journal of International Environmental Application and Science is a peer reviewed quarterly journal since 2006
                                     </p>
                                     <div className="footer-widget__btn-block">
+                                        <a href="https://dergipark.org.tr/en/pub/jieas/archive" className="thm-btn">Volumes</a>
                                         <a href="/contact" className="thm-btn">Contact</a>
                                     </div>
                                 </div>
@@ -75,9 +76,11 @@ export default function Footer() {
                 </div>
                 <div className="site-footer__bottom">
                     <div className="container">
-                        <p className="site-footer__copy">&copy; Copyright 2021 by <a target="_blank" href="https://sub.fyi/">Sub.fyi</a></p>
+                        <p className="site-footer__copy">&copy; Copyright 2023 by <a target="_blank" href="https://sub.fyi/">Sub.fyi</a></p>
                         <div className="site-footer__social">
-                            <div onClick={scrollTop} className="scroll-to-target site-footer__scroll-top"><i className="kipso-icon-top-arrow"></i></div>
+                            <div onClick={scrollTop} className="scroll-to-target site-footer__scroll-top"><i
+                                className="fas fa-arrow-up"></i></div>
+                            <a href="https://dergipark.org.tr/en/pub/jieas/indexes"><i className="fas fa-book"></i></a>
                         </div>
                     </div>
                 </div>
