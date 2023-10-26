@@ -117,31 +117,6 @@
       "permanent": true
     },
     {
-      "source": "/volume-1/:path*",
-      "destination": "https://dergipark.org.tr/en/pub/jieas/archive",
-      "permanent": true
-    },
-    {
-      "source": "/volume-2/:path*",
-      "destination": "https://dergipark.org.tr/en/pub/jieas/archive",
-      "permanent": true
-    },
-    {
-      "source": "/volume-3/:path*",
-      "destination": "https://dergipark.org.tr/en/pub/jieas/archive",
-      "permanent": true
-    },
-    {
-      "source": "/volume-4/:path*",
-      "destination": "https://dergipark.org.tr/en/pub/jieas/archive",
-      "permanent": true
-    },
-    {
-      "source": "/volume-5/:path*",
-      "destination": "https://dergipark.org.tr/en/pub/jieas/archive",
-      "permanent": true
-    },
-    {
       "source": "/author/:path*",
       "destination": "https://dergipark.org.tr/en/pub/jieas",
       "permanent": true
