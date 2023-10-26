@@ -1,6 +1,4 @@
 import React, {Component} from 'react';
-import CountUp from 'react-countup';
-import VisibilitySensor from 'react-visibility-sensor';
 
 export default class AboutTwo extends Component {
     constructor() {
@@ -26,7 +24,7 @@ export default class AboutTwo extends Component {
                                 <div className="about-one__text">
                                     <div className="about-two__single">
                                         <div className="about-two__single-icon">
-                                            <i className="kipso-icon-email"></i>
+                                            <i className="fas fa-envelope-open"></i>
                                         </div>
                                         <div className="about-two__single-content">
                                             <p className="about-two__single-text">Online Submission System
@@ -40,7 +38,8 @@ export default class AboutTwo extends Component {
                                     <br/>
                                     <div className="about-two__single">
                                         <div className="about-two__single-icon">
-                                            <i className="kipso-icon-professor"></i>
+                                            <i className="fas fa-rocket"></i>
+
                                         </div>
                                         <div className="about-two__single-content">
                                             <p className="about-two__single-text">
@@ -55,7 +54,7 @@ export default class AboutTwo extends Component {
                                     <br/>
                                     <div className="about-two__single">
                                         <div className="about-two__single-icon">
-                                            <i className="kipso-icon-knowledge"></i>
+                                            <i className="fas fa-newspaper"></i>
                                         </div>
                                         <div className="about-two__single-content">
                                             <p className="about-two__single-text">No Space Constraints

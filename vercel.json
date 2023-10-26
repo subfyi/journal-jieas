@@ -1,0 +1,150 @@
+{
+  "version": 2,
+  "redirects": [
+    {
+      "source": "/iseser/",
+      "destination": "https://iseser.com/",
+      "permanent": true
+    },
+    {
+      "source": "/ucbad/",
+      "destination": "https://ucbad.com/",
+      "permanent": true
+    },
+    {
+      "source": "/ijepem/",
+      "destination": "https://ijepem.com/",
+      "permanent": true
+    },
+    {
+      "source": "/indexes/",
+      "destination": "https://dergipark.org.tr/en/pub/jieas/indexes",
+      "permanent": true
+    },
+    {
+      "source": "/aim-and-scope/",
+      "destination": "https://dergipark.org.tr/en/pub/jieas/aim-and-scope",
+      "permanent": true
+    },
+    {
+      "source": "/guide-for-authors/",
+      "destination": "https://dergipark.org.tr/en/pub/jieas/writing-rules",
+      "permanent": true
+    },
+    {
+      "source": "/ethics-statement/",
+      "destination": "https://dergipark.org.tr/en/pub/jieas/policy",
+      "permanent": true
+    },
+    {
+      "source": "/editorial-team/",
+      "destination": "https://dergipark.org.tr/en/pub/jieas/board",
+      "permanent": true
+    },
+    {
+      "source": "/editorial-board/",
+      "destination": "https://dergipark.org.tr/en/pub/jieas/board",
+      "permanent": true
+    },
+    {
+      "source": "/about/editorialTeam/",
+      "destination": "https://dergipark.org.tr/en/pub/jieas/board",
+      "permanent": true
+    },
+    {
+      "source": "/publisher/",
+      "destination": "/contact",
+      "permanent": true
+    },
+    {
+      "source": "/iletisim/",
+      "destination": "/contact",
+      "permanent": true
+    },
+    {
+      "source": "/about/contact/",
+      "destination": "/contact",
+      "permanent": true
+    },
+    {
+      "source": "/about/",
+      "destination": "/editorial-team",
+      "permanent": true
+    },
+    {
+      "source": "/online-submission/",
+      "destination": "https://dergipark.org.tr/tr/journal/2661/submission/step/manuscript/new",
+      "permanent": true
+    },
+    {
+      "source": "/online-gonderi/",
+      "destination": "https://dergipark.org.tr/tr/journal/2661/submission/step/manuscript/new",
+      "permanent": true
+    },
+    {
+      "source": "/about/submissions/",
+      "destination": "https://dergipark.org.tr/tr/journal/2661/submission/step/manuscript/new",
+      "permanent": true
+    },
+    {
+      "source": "/volumes/",
+      "destination": "https://dergipark.org.tr/en/pub/jieas/archive",
+      "permanent": true
+    },
+    {
+      "source": "/volume/",
+      "destination": "https://dergipark.org.tr/en/pub/jieas/archive",
+      "permanent": true
+    },
+    {
+      "source": "/cilt/",
+      "destination": "https://dergipark.org.tr/en/pub/jieas/archive",
+      "permanent": true
+    },
+    {
+      "source": "/ciltler/",
+      "destination": "https://dergipark.org.tr/en/pub/jieas/archive",
+      "permanent": true
+    },
+    {
+      "source": "/sayilar/",
+      "destination": "https://dergipark.org.tr/en/pub/jieas/archive",
+      "permanent": true
+    },
+    {
+      "source": "/issue/archive/",
+      "destination": "https://dergipark.org.tr/en/pub/jieas/archive",
+      "permanent": true
+    },
+    {
+      "source": "/volume-1/:path*",
+      "destination": "https://dergipark.org.tr/en/pub/jieas/archive",
+      "permanent": true
+    },
+    {
+      "source": "/volume-2/:path*",
+      "destination": "https://dergipark.org.tr/en/pub/jieas/archive",
+      "permanent": true
+    },
+    {
+      "source": "/volume-3/:path*",
+      "destination": "https://dergipark.org.tr/en/pub/jieas/archive",
+      "permanent": true
+    },
+    {
+      "source": "/volume-4/:path*",
+      "destination": "https://dergipark.org.tr/en/pub/jieas/archive",
+      "permanent": true
+    },
+    {
+      "source": "/volume-5/:path*",
+      "destination": "https://dergipark.org.tr/en/pub/jieas/archive",
+      "permanent": true
+    },
+    {
+      "source": "/author/:path*",
+      "destination": "https://dergipark.org.tr/en/pub/jieas",
+      "permanent": true
+    }
+  ]
+}

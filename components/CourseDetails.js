@@ -72,7 +72,7 @@ const CourseDetails = (props) => {
 
             <div className="course-details__price">
               <p className="course-details__price-text">Full text </p>
-              <a target="_blank" href={'/doc/ijepem-' + moment(articles.pubdate).format('YY') + '-0' + issue + (article > 9 ? '-' : '-0') + article + '.pdf'}
+              <a target="_blank" href={'/doc/jieas-' + moment(articles.pubdate).format('YY') + '-0' + issue + (article > 9 ? '-' : '-0') + article + '.pdf'}
                  className="thm-btn course-details__price-btn">JIEAS [PDF]</a>
               {articles.files.map((a =>
                 <a target="_blank" href={a.file.url} className="thm-btn course-details__price-btn">Dergipark [PDF]</a>))
@@ -99,11 +99,11 @@ const CourseDetails = (props) => {
 
             <div className="course-details__price">
               <div className=" text-center align-items-center">
-                <a target="_blank" href={'/doc/ijepem-' + moment(articles.pubdate).format('YY') + '-0' + issue + '-00-00.pdf'}>
-                  <img className="w-100 mb-3" src={require('../public/doc/ijepem-' + moment(articles.pubdate).format('YY') + '-0' + issue + '-00-00.png?resize&size=270')} alt="volume image" />
+                <a target="_blank" href={'/doc/jieas-' + moment(articles.pubdate).format('YY') + '-0' + issue + '-00-00.pdf'}>
+                  <img className="w-100 mb-3" src={require('../public/doc/jieas-' + moment(articles.pubdate).format('YY') + '-0' + issue + '-00-00.png?resize&size=270')} alt="volume image" />
                 </a>
                 <a target="_blank" className="btn btn-outline-dark text-secondary col-md-12 mb-3"
-                    href={'/doc/ijepem-' + moment(articles.pubdate).format('YY') + '-0' + issue + '-00-00.png'}>
+                    href={'/doc/jieas-' + moment(articles.pubdate).format('YY') + '-0' + issue + '-00-00.png'}>
                   COVER
                 </a>
               </div>
