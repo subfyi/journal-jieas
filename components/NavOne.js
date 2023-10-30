@@ -68,7 +68,9 @@ function NavOne() {
                         <Link href="/" className="navbar-brand">
                             <img src="/logo.jpg" className="main-logo" width="60" alt="JIEAS" /> <h1>JIEAS</h1>
                         </Link>
-
+                        <div className="header__social">
+                            <a href="/archive/"><i className="fas fa-times"></i></a>
+                        </div>
                         <button className="menu-toggler">
                             <span className="fas fa-bars"></span>
                         </button>

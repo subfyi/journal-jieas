@@ -81,6 +81,7 @@ export default function Footer() {
                             <div onClick={scrollTop} className="scroll-to-target site-footer__scroll-top"><i
                                 className="fas fa-arrow-up"></i></div>
                             <a href="https://dergipark.org.tr/en/pub/jieas/indexes"><i className="fas fa-book"></i></a>
+                            <a href="/archive/"><i className="fas fa-times"></i></a>
                         </div>
                     </div>
                 </div>

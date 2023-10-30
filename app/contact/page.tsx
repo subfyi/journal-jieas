@@ -15,7 +15,7 @@ export const metadata = {
 export default function Page() {
     return <>
         <NavOne/>
-        <PageHeader title="Contact"/>
+        <PageHeader title={metaTitle}/>
         <Contact/>
         <ContactForm/>
     </>;
