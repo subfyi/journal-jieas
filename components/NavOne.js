@@ -66,10 +66,11 @@ function NavOne() {
                 <div className="container clearfix">
                     <div className="logo-box clearfix">
                         <Link href="/" className="navbar-brand">
-                            <img src="/logo.jpg" className="main-logo" width="60" alt="JIEAS" /> <h1>JIEAS</h1>
+                            <img src="/logo.jpg" className="main-logo" width="85" alt="JIEAS" /> <h1>JIEAS</h1>
                         </Link>
                         <div className="header__social">
-                            <a href="/archive/"><i className="fas fa-times"></i></a>
+                            <a href="https://dergipark.org.tr/en/pub/jieas/indexes"><i className="fas fa-book"></i></a>
+                            <a href="https://drive.google.com/drive/folders/1GOH1W0EVGKHvQrcQzZhuU3l2-AWrvgqa?usp=sharing"><i className="fas fa-archive"></i></a>
                         </div>
                         <button className="menu-toggler">
                             <span className="fas fa-bars"></span>
