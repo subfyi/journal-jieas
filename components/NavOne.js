@@ -70,7 +70,6 @@ function NavOne() {
                         </Link>
                         <div className="header__social">
                             <a href="https://dergipark.org.tr/en/pub/jieas/indexes"><i className="fas fa-book"></i></a>
-                            <a href="https://drive.google.com/drive/folders/1GOH1W0EVGKHvQrcQzZhuU3l2-AWrvgqa?usp=sharing"><i className="fas fa-archive"></i></a>
                         </div>
                         <button className="menu-toggler">
                             <span className="fas fa-bars"></span>
@@ -79,10 +78,10 @@ function NavOne() {
                     <div className="main-navigation">
                         <ul className=" navigation-box">
                             <li>
-                                <Link href="/">Homepage</Link>
+                                <a href="https://drive.google.com/drive/folders/1GOH1W0EVGKHvQrcQzZhuU3l2-AWrvgqa?usp=sharing">Volumes 1 to 10</a>
                             </li>
                             <li>
-                                <a href="https://dergipark.org.tr/en/pub/jieas/archive">Volumes</a>
+                                <a href="https://dergipark.org.tr/en/pub/jieas/archive">after Volume 10</a>
                             </li>
                             <li>
                                 <a href="https://dergipark.org.tr/en/pub/jieas/board">Editorial Team</a>
@@ -91,7 +90,7 @@ function NavOne() {
                                 <a href="https://dergipark.org.tr/en/pub/jieas/aim-and-scope">Aim and Scope</a>
                             </li>
                             <li>
-                                <Link href="/contact/">Contact</Link>
+                                <a href="https://dergipark.org.tr/en/pub/jieas/contacts">Contact</a>
                             </li>
                         </ul>
                     </div>

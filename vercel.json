@@ -22,6 +22,11 @@
       "statusCode": 301
     },
     {
+      "source": "/contact/",
+      "destination": "https://dergipark.org.tr/en/pub/jieas/contacts",
+      "statusCode": 301
+    },
+    {
       "source": "/aim-and-scope/",
       "destination": "https://dergipark.org.tr/en/pub/jieas/aim-and-scope",
       "statusCode": 301
